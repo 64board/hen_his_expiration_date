@@ -1,0 +1,8 @@
+# Ignore Python cache.
+__pycache__/
+# Ignore *.ini files.
+*.ini
+# Do not ignore config.ini file.
+!config.ini
+# Ignore *.txt files.
+*.txt
